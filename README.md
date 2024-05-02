@@ -25,10 +25,10 @@ dotnet run
 
 ## Utilisation via Docker (nécessite docker)
 
-Cette image est compatibles avec les plateformes AMD64.
+Cette image est compatible avec les plateformes AMD64.
 
 Depuis un invite de commande, exécute la commande suivante:
 
 ```
-docker run -it --rm docker.io/aumerial/nticonfigurationhelper:lates
+docker run -it --rm docker.io/aumerial/nticonfigurationhelper:latest
 ```
