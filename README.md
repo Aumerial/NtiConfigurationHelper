@@ -10,14 +10,15 @@ Vous pouvez également récupérer les informations nécessaires à fournir lors
 
 ## Utilisation 
 
-Clonez ce dépôt:
+Clonez ce dépôt dans le répertoir de votre choix:
 
 ```
-git clone https://www.github.com/Aumerial/NTiCOnfigurationHelper
+git clone https://www.github.com/Aumerial/NTiConfigurationHelper
 ```
 
 Executez le projet:
 
 ```
+cd NtiConfigurationHelper
 dotnet run
 ```
