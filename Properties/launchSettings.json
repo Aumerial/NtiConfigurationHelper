@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NtiConfigurationHelper": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

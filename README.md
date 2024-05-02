@@ -8,7 +8,7 @@ Utilisez ce projet pour ajouter, supprimer, mettre à jour et vérifier la valid
 
 Vous pouvez également récupérer les informations nécessaires à fournir lors de la demande d'une nouvelle clé de licence NTi.
 
-## Utilisation 
+## Utilisation en local (nécessite la runtime .NET 8)
 
 Clonez ce dépôt dans le répertoir de votre choix:
 
@@ -21,4 +21,14 @@ Executez le projet:
 ```
 cd NtiConfigurationHelper
 dotnet run
+```
+
+## Utilisation via Docker (nécessite docker)
+
+Cette image est compatibles avec les plateformes AMD64.
+
+Depuis un invite de commande, exécute la commande suivante:
+
+```
+docker run -it --rm docker.io/aumerial/nticonfigurationhelper:lates
 ```
